@@ -9,7 +9,7 @@ import { ChevronRightIcon, SearchIcon, UserIcon } from "lucide-react";
 const productData = [
   {
     id: 1,
-    image: "/src/Home_Page_Task/Rectangle_570-1.png",
+    image: "/src/Home_Page_Task/Rectangle_1771.png",
     price: "₹22,323",
     originalPrice: "₹22,323",
     name: "Yemeraly Wings Diamond...",
@@ -19,7 +19,7 @@ const productData = [
   },
   {
     id: 2,
-    image: "/src/HomePage_Task/Rectangl_1771.png",
+    image: "/src/Home_Page_Task/Rectangle_1771.png",
     price: "₹22,323",
     originalPrice: "₹22,323",
     name: "Yemeraly Wings Diamond...",
@@ -29,7 +29,7 @@ const productData = [
   },
   {
     id: 3,
-    image: "/src/Home_Page_Task/Rectangle 570-1.png",
+    image: "/src/Home_Page_Task/Rectangle_1771.png",
     price: "₹22,323",
     originalPrice: "₹22,323",
     name: "Yemeraly Wings Diamond...",
@@ -39,7 +39,7 @@ const productData = [
   },
   {
     id: 4,
-    image: "/src/Home_Page_Task/Rectangle 570-1.png",
+    image: "/src/Home_Page_Task/Rectangle_1771.png",
     price: "₹22,323",
     originalPrice: "₹22,323",
     name: "Yemeraly Wings Diamond...",
@@ -49,7 +49,7 @@ const productData = [
   },
   {
     id: 5,
-    image: "/src/Home_Page_Task/Rectangle 570-1.png",
+    image: "/src/Home_Page_Task/Rectangle_1771.png",
     price: "₹22,323",
     originalPrice: "₹22,323",
     name: "Yemeraly Wings Diamond...",
